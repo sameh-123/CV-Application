@@ -1,8 +1,7 @@
-# React + Vite
+This is my solution for the CV Application project from Odin Project 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+it provides entering your personal information like name , address, email and phone number 
 
-Currently, two official plugins are available:
+you can enter your Educational information using school name , the start and end dates and the degree you get
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+you can provide your professional experience using the company name and your position and the start , end dates of this experience
